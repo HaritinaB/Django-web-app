@@ -1,1 +1,1 @@
-# Django-web-app
+# web-app
